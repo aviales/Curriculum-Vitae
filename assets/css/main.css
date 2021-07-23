@@ -10251,7 +10251,7 @@ h6 {
 }
 
 .about__container .about__col2 p {
-  font-size: 4vw;
+  font-size: 5vw;
   text-align: center;
   margin: 50px auto 70px;
   color: #999999;
@@ -10260,7 +10260,7 @@ h6 {
 
 @media screen and (min-width: 768px) {
   .about__container .about__col2 p {
-    font-size: 1vw;
+    font-size: 2vw;
     text-align: start;
     line-height: 2rem;
   }
@@ -10268,7 +10268,7 @@ h6 {
 
 @media screen and (min-width: 900px) {
     .about__container .about__col2 p {
-        font-size: 1vw;
+        font-size: 2vw;
         line-height: 2.5rem;
     }
 }
